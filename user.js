@@ -4,7 +4,7 @@
 // @version      2020
 // @description  Krunker io Hacks Krunker.io Cheats Krunkerio Aimbot
 // @author       OVERHAX/THEGUY3ds + Krunkerr
-// @icon         https://www.google.com/s2/favicons?domain=krunker.io
+// @icon         https://www.google.com/s2/favicons?domain=krunker2020
 // @require             http://code.jquery.com/jquery-3.3.1.min.js
 // @require             https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
 // @require             https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js
